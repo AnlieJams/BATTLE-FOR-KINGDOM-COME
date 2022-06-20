@@ -5,7 +5,8 @@
 #include <math.h>
 
 using namespace std;
-int main(int argc, const char* argv[]) {
+int main() 
+{
     int dragon_hp, dragon_dmg, spear_hp, spear_dmg, number_of_spear;
 
     cout << "     \\\\   |   _____   |   //        " << "\n";
